@@ -1,0 +1,199 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style>
+    th{ 
+        color:#fff;
+            }
+</style>
+
+
+<table class="table table-striped">
+    <tr  class="bg-info">
+        <th>Judul</th>
+        <th>Kategori</th>
+        <th>Waktu publish</th>
+		<th>Waktu scrap</th>
+    </tr>
+
+    <tbody id="myTable">
+        
+    </tbody>
+</table>
+
+<script>
+	var myArray = [
+  {
+    "judul": "Mampukah AS Tekan China di Konflik Rusia-Ukraina?",
+    "kategori": "Internasional",
+    "waktu_publish": "49 detik yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Belanja Iklan di Indonesia pada 2021 Capai Rp 259 Triliun",
+    "kategori": "Ekonomi",
+    "waktu_publish": "2 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Lapas Banyuwangi Gagalkan Penyelundupan 6 Paket Sabu",
+    "kategori": "Repjogja",
+    "waktu_publish": "2 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Ilmuwan Temukan Spieses Baru Kura-Kura Raksasa ",
+    "kategori": "Trendtek",
+    "waktu_publish": "3 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Lee Jung-jae 'Squid Game' Aktor Korea Pertama Menangkan Best Aktor Critics Choice Awards",
+    "kategori": "Network",
+    "waktu_publish": "3 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Anggota Exotic Animal Lovers Wafat Digigit Ular Putih Papua, Pakar: Antiracunnya Belum Ada",
+    "kategori": "Gaya Hidup",
+    "waktu_publish": "5 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Tampilan dan Sikap Ramah Lisa BLACKPINK di Bandara Tuai Pujian",
+    "kategori": "Network",
+    "waktu_publish": "7 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "14 Ponpes Muhammadiyah Jalin Kerja Sama dengan FAI UMP",
+    "kategori": "Repjogja",
+    "waktu_publish": "8 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Polisi: Pengendara Moge Tabrak Bocah Sudah Diamankan tapi Belum Ada Tersangka",
+    "kategori": "Nusantara",
+    "waktu_publish": "10 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Belajar Mengajar Lewat Buku Belajar Dari Finlandia",
+    "kategori": "Retizen",
+    "waktu_publish": "16 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Pakar: Gempa Nias Merupakan Subduksi Segmen Siberut",
+    "kategori": "Nusantara",
+    "waktu_publish": "16 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Aplikasi Kas Keuangan Masjid Berbasis Web Gratis",
+    "kategori": "Retizen",
+    "waktu_publish": "18 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Pelonggaran Syarat Naik Kereta tak Picu Lonjakan Penumpang",
+    "kategori": "Repjogja",
+    "waktu_publish": "18 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Dua WNA Terancam Penjara 12 Tahun Akibat Pencurian di Bali",
+    "kategori": "Nusantara",
+    "waktu_publish": "20 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Al-Masann, Peninggalan Rongga Batu di Tabuk ",
+    "kategori": "IHRAM.CO.ID",
+    "waktu_publish": "21 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Delapan Pendaftar Lolos Seleksi Administrasi Calon Sekdaprov Jatim",
+    "kategori": "Repjogja",
+    "waktu_publish": "22 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Pesawat Tempur Angkatan Udara Taiwan Kembali Jatuh",
+    "kategori": "Internasional",
+    "waktu_publish": "22 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Polemik Logo Halal, Anggota Dewan: Perlu Sosialisasi Lebih Luas",
+    "kategori": "Nasional",
+    "waktu_publish": "23 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Sepanjang 2021, BCA Catat Transaksi Mobile Banking Tumbuh 60 Persen",
+    "kategori": "Ekonomi",
+    "waktu_publish": "25 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Kota Malang Kembali Gelar PTM 100 Persen",
+    "kategori": "Nusantara",
+    "waktu_publish": "26 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Semangat Wanita Gaza Jadi Tukang Kayu Ciptakan Mainan Edukatif",
+    "kategori": "Khazanah",
+    "waktu_publish": "26 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Kota Malang Kembali Gelar Pembelajaran Tatap Muka 100 Persen",
+    "kategori": "Repjogja",
+    "waktu_publish": "27 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Pilihan di Tanganku",
+    "kategori": "Retizen",
+    "waktu_publish": "28 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Seorang Warga Tewas Tertimbun Longsor di Nagreg, Bandung",
+    "kategori": "Nusantara",
+    "waktu_publish": "31 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  },
+  {
+    "judul": "Pandemi Menuju Endemi, Sudah Siapkah Kita New Normal?",
+    "kategori": "Retizen",
+    "waktu_publish": "34 menit yang lalu",
+    "waktu_scraping": "2022-03-14 12:50:33"
+  }
+]
+	
+	buildTable(myArray)
+
+
+
+	function buildTable(data){
+		var table = document.getElementById('myTable')
+
+		for (var i = 0; i < data.length; i++){
+			var row = `<tr>
+							<td>${data[i].judul}</td>
+							<td>${data[i].kategori}</td>
+							<td>${data[i].waktu_publish}</td>
+							<td>${data[i].waktu_scraping}</td>
+					  </tr>`
+			table.innerHTML += row
+
+
+		}
+	}
+
+</script>

@@ -1,0 +1,802 @@
+[
+     {
+          "Rating": "96",
+          "No": "1.",
+          "Judul": "Roma",
+          "Release": "November 21, 2018 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/9b93199016c71cae5adb7e6355fb351a-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "2.",
+          "Judul": "The Social Network",
+          "Release": "October 1, 2010 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/aa5515688c769b5ffb92d2b07e671c2a-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "3.",
+          "Judul": "My Fair Lady",
+          "Release": "December 25, 1964 | G",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/7/419b98d7b4c547facb8eab4a95c18f19-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "4.",
+          "Judul": "I Am Not Your Negro",
+          "Release": "December 9, 2016 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/4f754e5f5da9c63346894604e8bf7ab1-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "5.",
+          "Judul": "Dunkirk",
+          "Release": "July 21, 2017 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/9a774585c0cac7bc8047c14c2dcca8ae-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "6.",
+          "Judul": "Taxi Driver",
+          "Release": "February 7, 1976 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/06526a61907c3757688d1107a490fe64-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "7.",
+          "Judul": "The Irishman",
+          "Release": "November 1, 2019 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/c4f0ff0f354fdbfa6411a77d60d0203e-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "8.",
+          "Judul": "Apocalypse Now",
+          "Release": "August 15, 1979 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/5d4637c187b702dbc61f8dd540125e44-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "9.",
+          "Judul": "Marriage Story",
+          "Release": "November 6, 2019 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/8ba65f2299711314f0478b359a5a0b5d-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "10.",
+          "Judul": "There Will Be Blood",
+          "Release": "December 26, 2007 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/41aa209d599b91eb54481734469963a7-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "11.",
+          "Judul": "The Florida Project",
+          "Release": "October 6, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/46b000b327252c66464de14490334b18-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "12.",
+          "Judul": "Time",
+          "Release": "October 9, 2020 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/c4190c8ae8e465f9c517797530351340-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "13.",
+          "Judul": "E.T. The Extra-Terrestrial",
+          "Release": "June 11, 1982 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/92b0da5d3482fb1665b34a99ed81678c-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "14.",
+          "Judul": "Uncut Gems",
+          "Release": "December 13, 2019 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/6a1986ed659e9c9cf0bc68ba62ebb4be-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "15.",
+          "Judul": "I Called Him Morgan",
+          "Release": "March 24, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/27e8957d1470f9a64e4161824230c8d1-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "16.",
+          "Judul": "Procession",
+          "Release": "November 19, 2021 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/d1496d5a3f78e97fcb277129862e318e-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "17.",
+          "Judul": "Phantom Thread",
+          "Release": "December 25, 2017 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/00e2829c8e48c58cfbedd66616002d8a-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "18.",
+          "Judul": "Uncertain",
+          "Release": "March 10, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/858c8ffe00bafdf57b8b03a8c0b0bd4d-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "19.",
+          "Judul": "The Power of the Dog",
+          "Release": "November 17, 2021 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/12b2757cb90755e832ee9547bbe8fc72-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "20.",
+          "Judul": "The Artist",
+          "Release": "November 23, 2011",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/9fb6c6605d7fd58eb6e2d41533bdcbd3-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "21.",
+          "Judul": "Dick Johnson Is Dead",
+          "Release": "October 2, 2020 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/05e7dc9e4618d0ac72ba7f1d09e5d101-98.jpg"
+     },
+     {
+          "Rating": "88",
+          "No": "22.",
+          "Judul": "Time Out",
+          "Release": "March 29, 2002 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/d10dd4b5177fc5a8bf50e418fc83c2a7-98.jpg"
+     },
+     {
+          "Rating": "88",
+          "No": "23.",
+          "Judul": "Hell or High Water",
+          "Release": "August 12, 2016 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/8af977edc3cb8cb98ada67ad3673c256-98.jpg"
+     },
+     {
+          "Rating": "88",
+          "No": "24.",
+          "Judul": "Shirkers",
+          "Release": "October 26, 2018 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/fbd2b079c66ca289c3564352176b5bd4-98.jpg"
+     },
+     {
+          "Rating": "87",
+          "No": "25.",
+          "Judul": "The Body Remembers When the World Broke Open",
+          "Release": "November 22, 2019 | TV-MA",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/0/412b62d4ab7b9c108b37f047bb45cdd0-98.jpg"
+     },
+     {
+          "Rating": "87",
+          "No": "26.",
+          "Judul": "Ma Rainey's Black Bottom",
+          "Release": "November 25, 2020 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/958abfd496ce8e90662aec0e11b08bc6-98.jpg"
+     },
+     {
+          "Rating": "87",
+          "No": "27.",
+          "Judul": "Happy as Lazzaro",
+          "Release": "November 30, 2018 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/2ff7ede78883821515155613094ba298-98.jpg"
+     },
+     {
+          "Rating": "87",
+          "No": "28.",
+          "Judul": "Moneyball",
+          "Release": "September 23, 2011 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/d63784b8765f46c2bfe82526ac027625-98.jpg"
+     },
+     {
+          "Rating": "87",
+          "No": "29.",
+          "Judul": "The English Patient",
+          "Release": "November 15, 1996 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/32aa62c887d0e5af3a72762fc24f1db9-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "30.",
+          "Judul": "Ordinary People",
+          "Release": "September 18, 1980 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/ccca1086e32c19f80b01f578cfce31fb-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "31.",
+          "Judul": "Million Dollar Baby",
+          "Release": "December 15, 2004 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/1bb53793269eb19f85ddcc98eecc9ed8-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "32.",
+          "Judul": "Rebecca",
+          "Release": "April 12, 1940 | Approved",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/7/bb6e279e3a3fa3a2996423fea3558150-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "33.",
+          "Judul": "Tangerine",
+          "Release": "July 10, 2015 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/d4c88747bfc4604e640e288d92288e68-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "34.",
+          "Judul": "My Happy Family",
+          "Release": "December 1, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/a637ff8f21efaf0bdf92e574f31bbcee-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "35.",
+          "Judul": "Chasing Coral",
+          "Release": "July 14, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/c29ba30f656698a4199e4e482bed9ce7-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "36.",
+          "Judul": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+          "Release": "June 12, 2019 | TV-MA",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/5520ce3f52ce0b1897addfb4f4cdcba4-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "37.",
+          "Judul": "The Master",
+          "Release": "September 14, 2012 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/e90970f048f15748ed35423940119720-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "38.",
+          "Judul": "The Son",
+          "Release": "January 10, 2003",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/d8a2851d1d83960735268fdc7a5c7360-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "39.",
+          "Judul": "Strong Island",
+          "Release": "September 15, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/6473a1cd1c11d05b71d37b7fb8600c08-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "40.",
+          "Judul": "American Factory",
+          "Release": "August 21, 2019 | TV-14",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/8d561e296ef982d3e399d9bf63bacd6e-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "41.",
+          "Judul": "Crip Camp: A Disability Revolution",
+          "Release": "March 25, 2020 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/0/b3e8092eee0ff8b82b84eddcdb2b1a8d-98.jpg"
+     },
+     {
+          "Rating": "86",
+          "No": "42.",
+          "Judul": "The Lost Daughter",
+          "Release": "December 17, 2021 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/1b0056a178c1f53ebb3afcf1be9ac984-98.jpg"
+     },
+     {
+          "Rating": "85",
+          "No": "43.",
+          "Judul": "The Bourne Ultimatum",
+          "Release": "August 3, 2007 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/325c5bdd94a261e82b8f2f8e9bd78863-98.jpg"
+     },
+     {
+          "Rating": "85",
+          "No": "44.",
+          "Judul": "Athlete A",
+          "Release": "June 24, 2020 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/2/cda96a2a04f1d040ad68a65bcc22faf8-98.jpg"
+     },
+     {
+          "Rating": "85",
+          "No": "45.",
+          "Judul": "Atlantics",
+          "Release": "November 15, 2019 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/a75778ded5ba3a690138359f185bd5fd-98.jpg"
+     },
+     {
+          "Rating": "85",
+          "No": "46.",
+          "Judul": "Passing",
+          "Release": "October 27, 2021 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/7/7122255fc5439194a5b9c6301c666a9d-98.jpg"
+     },
+     {
+          "Rating": "85",
+          "No": "47.",
+          "Judul": "Mudbound",
+          "Release": "November 17, 2017 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/4047d65bd54e82b0e3b4eddd025115d4-98.jpg"
+     },
+     {
+          "Rating": "85",
+          "No": "48.",
+          "Judul": "Sound and Fury",
+          "Release": "October 25, 2000",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/ba5ce2b7314de36210a7f135e9ca5c55-98.jpg"
+     },
+     {
+          "Rating": "84",
+          "No": "49.",
+          "Judul": "Mystic River",
+          "Release": "October 8, 2003 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/2/9441bc6d976d8c90d6cf9d5cdbd9412b-98.jpg"
+     },
+     {
+          "Rating": "84",
+          "No": "50.",
+          "Judul": "Looper",
+          "Release": "September 28, 2012 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/2/00a3b6e73386908e69436ec42a1c048b-98.jpg"
+     },
+     {
+          "Rating": "84",
+          "No": "51.",
+          "Judul": "The Square",
+          "Release": "October 25, 2013 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/e4f613329a6d9b4ba396003723d58ba9-98.jpg"
+     },
+     {
+          "Rating": "84",
+          "No": "52.",
+          "Judul": "The Dark Knight",
+          "Release": "July 18, 2008 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/73a707fb35f11b062e9f3d91a4da46a6-98.jpg"
+     },
+     {
+          "Rating": "84",
+          "No": "53.",
+          "Judul": "Shrek",
+          "Release": "May 18, 2001 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/e7ec4fb73bf4aa5733eae206e303159e-98.jpg"
+     },
+     {
+          "Rating": "84",
+          "No": "54.",
+          "Judul": "Dave Chappelle's Block Party",
+          "Release": "March 3, 2006 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/7fee7da9af629e4ac8accd86f592e898-98.jpg"
+     },
+     {
+          "Rating": "84",
+          "No": "55.",
+          "Judul": "One Flew Over the Cuckoo's Nest",
+          "Release": "November 19, 1975 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/3350e9acbcb043b852c80cc7556dd34a-98.jpg"
+     },
+     {
+          "Rating": "83",
+          "No": "56.",
+          "Judul": "The Reason I Jump",
+          "Release": "January 8, 2021 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/cb830e2f2c6532470c348d188db80cc9-98.jpg"
+     },
+     {
+          "Rating": "83",
+          "No": "57.",
+          "Judul": "Under the Shadow",
+          "Release": "October 7, 2016 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/7/82961ef56e8d118192a44a9f442045c5-98.jpg"
+     },
+     {
+          "Rating": "83",
+          "No": "58.",
+          "Judul": "The Disciple",
+          "Release": "April 30, 2021 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/19ac35c06b836acb4be4b91e83ba8e34-98.jpg"
+     },
+     {
+          "Rating": "83",
+          "No": "59.",
+          "Judul": "From Russia with Love",
+          "Release": "May 27, 1964 | GP",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/0/5af2ec9ec79358cda3590685dc1b87ca-98.jpg"
+     },
+     {
+          "Rating": "83",
+          "No": "60.",
+          "Judul": "Private Life",
+          "Release": "October 5, 2018 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/130645fb1fb4052e4c62239934dc134c-98.jpg"
+     },
+     {
+          "Rating": "83",
+          "No": "61.",
+          "Judul": "13th",
+          "Release": "October 7, 2016 | TV-MA",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/f003c46a7e2729cc97ac8b63a64ffed6-98.jpg"
+     },
+     {
+          "Rating": "83",
+          "No": "62.",
+          "Judul": "It Follows",
+          "Release": "March 13, 2015 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/70fc340915255a331a86fea42ea05ca2-98.jpg"
+     },
+     {
+          "Rating": "82",
+          "No": "63.",
+          "Judul": "Anvil! The Story of Anvil",
+          "Release": "April 10, 2009 | Unrated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/662f84394fe24c46231c78f8a1032810-98.jpg"
+     },
+     {
+          "Rating": "82",
+          "No": "64.",
+          "Judul": "The Trip",
+          "Release": "June 10, 2011 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/c6bfc41153f2256a8f3d8fe9778bfdd8-98.jpg"
+     },
+     {
+          "Rating": "82",
+          "No": "65.",
+          "Judul": "Steve Jobs",
+          "Release": "October 9, 2015 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/d1c17d36d15e87b9368c91a574773b37-98.jpg"
+     },
+     {
+          "Rating": "82",
+          "No": "66.",
+          "Judul": "Da 5 Bloods",
+          "Release": "June 12, 2020 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/8f428e6d90420c70a269b49c6a759342-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "67.",
+          "Judul": "Wadjda",
+          "Release": "September 13, 2013 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/0d40227530785208bb174689fbd8356c-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "68.",
+          "Judul": "The Shawshank Redemption",
+          "Release": "September 1, 1994 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/ca66918d936df04504e6db22eec81dab-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "69.",
+          "Judul": "Elena",
+          "Release": "May 30, 2014 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/73c8feebce325ce6d0238c00b7392b2a-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "70.",
+          "Judul": "Bright Star",
+          "Release": "September 16, 2009 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/0/58a9a3d9cde74f94f6c76e56ba157937-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "71.",
+          "Judul": "Raw",
+          "Release": "March 10, 2017 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/dd206dd70a50eab968305f38e61843c0-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "72.",
+          "Judul": "Best Worst Thing That Ever Could Have Happened",
+          "Release": "November 18, 2016 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/7/5c8bc166029a3595eea993aa74b0fe04-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "73.",
+          "Judul": "Django Unchained",
+          "Release": "December 25, 2012 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/0/5cbc5de6c31c09078fdd5b4379734528-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "74.",
+          "Judul": "The Edge of Democracy",
+          "Release": "June 19, 2019 | TV-14",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/6091c4f473ac40e87747d9f54662d246-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "75.",
+          "Judul": "Hunt for the Wilderpeople",
+          "Release": "June 24, 2016 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/d7cd72a12718d9edc6598e649c763095-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "76.",
+          "Judul": "Hairspray",
+          "Release": "July 20, 2007 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/c08e1c9c7dd2b33324df52c92db95f25-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "77.",
+          "Judul": "I Lost My Body",
+          "Release": "November 15, 2019 | TV-MA",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/b66e5d0c36f602aa5104039dc60cdbdd-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "78.",
+          "Judul": "Midnight in Paris",
+          "Release": "May 20, 2011 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/2/b03e2fa5795aa7dbf7d9c97701d9db1e-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "79.",
+          "Judul": "Mirai",
+          "Release": "November 30, 2018 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/a34b33f63520a6dd7a38af8af7be2522-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "80.",
+          "Judul": "The Mitchells vs. The Machines",
+          "Release": "April 30, 2021 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/2/5cd44b68e24c2a93879ffa4055612e8d-98.jpg"
+     },
+     {
+          "Rating": "81",
+          "No": "81.",
+          "Judul": "Silver Linings Playbook",
+          "Release": "November 16, 2012 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/e21b282b7a821ec4d15be3de98213de9-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "82.",
+          "Judul": "Unrest",
+          "Release": "September 22, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/0/2adb46a436579865321e6b164b218bdb-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "83.",
+          "Judul": "The Sparks Brothers",
+          "Release": "June 18, 2021 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/df9a3bdcc06723f63a28140e5a577d3d-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "84.",
+          "Judul": "Knock Down the House",
+          "Release": "May 1, 2019 | PG",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/3f9bc5e7f6a82a70f43122d64c82910c-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "85.",
+          "Judul": "Sorry to Bother You",
+          "Release": "July 6, 2018 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/0/844af0841d23a18c129e8a5a66bb7c64-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "86.",
+          "Judul": "Prayers for the Stolen",
+          "Release": "November 17, 2021 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/2/3f36a5eb0946cf95f0326bd2a0a24a37-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "87.",
+          "Judul": "She's Beautiful When She's Angry",
+          "Release": "December 5, 2014 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/4/8dca08014fa06dc9cf8dc952a3f5ebf4-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "88.",
+          "Judul": "Casino Royale",
+          "Release": "November 17, 2006 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/08b5f3a45845fa3b6d1cb5f4978b5081-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "89.",
+          "Judul": "True Grit",
+          "Release": "December 22, 2010 | PG-13",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/73e1fc51aaa6da948613ccd6a5d36142-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "90.",
+          "Judul": "Bending the Arc",
+          "Release": "October 6, 2017 | NR",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/d81cb7d64e2684fb5df2969a2dc83381-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "91.",
+          "Judul": "The Forty-Year-Old Version",
+          "Release": "October 2, 2020 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/1/f0a29d09e564014225cc0a58fa86a7e7-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "92.",
+          "Judul": "7 Prisoners",
+          "Release": "November 5, 2021 | R",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/2/1a85e7e1810f934d3d0a969015212c9f-98.jpg"
+     },
+     {
+          "Rating": "80",
+          "No": "93.",
+          "Judul": "All Is Well",
+          "Release": "June 6, 2019 | TV-MA",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/16f3cc7c290cc228e06e220d22e25241-98.jpg"
+     },
+     {
+          "Rating": "79",
+          "No": "94.",
+          "Judul": "Winter on Fire: Ukraine's Fight for Freedom",
+          "Release": "October 9, 2015 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/a05a3413cfdb6e35714f1180c76d278b-98.jpg"
+     },
+     {
+          "Rating": "79",
+          "No": "95.",
+          "Judul": "The Meyerowitz Stories (New and Selected)",
+          "Release": "October 13, 2017 | TV-MA",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/3/334d921724dcf75682d4b6cf5c3544e4-98.jpg"
+     },
+     {
+          "Rating": "79",
+          "No": "96.",
+          "Judul": "She's Gotta Have It",
+          "Release": "August 8, 1986 | Unrated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/cfca2c3b9bcd7c26a31a01426f726cef-98.jpg"
+     },
+     {
+          "Rating": "79",
+          "No": "97.",
+          "Judul": "Whose Streets?",
+          "Release": "August 11, 2017 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/8/d4ba832dadf2f4f0e79cfab667d7bb1f-98.jpg"
+     },
+     {
+          "Rating": "79",
+          "No": "98.",
+          "Judul": "Funan",
+          "Release": "June 7, 2019 | Not Rated",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/9/f47f1dd9dd6930ed20347389edbdaf87-98.jpg"
+     },
+     {
+          "Rating": "79",
+          "No": "99.",
+          "Judul": "Mank",
+          "Release": "November 13, 2020",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/5/52382cf734c825bec2e29829090c07a4-98.jpg"
+     },
+     {
+          "Rating": "79",
+          "No": "100.",
+          "Judul": "An Easy Girl",
+          "Release": "August 13, 2020 | TV-MA",
+          "waktu_scraping": "2022-03-19 20:24:04",
+          "Image": "https://static.metacritic.com/images/products/movies/6/9cd40ccff212c4c42b3a0fcaeee080f3-98.jpg"
+     }
+]
